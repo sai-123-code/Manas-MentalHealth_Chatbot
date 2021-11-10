@@ -20,8 +20,8 @@ AI and machine learning have the potential to revolutionize the way we diagnose 
 ## For postive Messages
 <img width="301" alt="Screenshot 2021-11-10 223414" src="https://user-images.githubusercontent.com/70212207/141174173-f17cd3ae-b551-46f5-a91a-86479d5bdec8.png">
 ## For Negative Messages
-### Chatbot Reply for Anger Management
+Chatbot Reply for Anger Management
 <img width="299" alt="Screenshot 2021-11-10 225251" src="https://user-images.githubusercontent.com/70212207/141172402-d5870462-1a26-4718-bd10-6935ee327b98.png">
-### Chatbot Reply for Stress/Anxiety
+Chatbot Reply for Stress/Anxiety
 <img width="299" alt="Screenshot 2021-11-10 224513" src="https://user-images.githubusercontent.com/70212207/141172217-6a7f2b41-6373-4e20-a7eb-741087b68c6b.png">
 
