@@ -16,6 +16,10 @@ AI and machine learning have the potential to revolutionize the way we diagnose 
 5.Helping to destigmatize mental health issues.
 6.Could expand access and reduce costs
 
+# CHATBOT WORKFLOW:
+![Workflow Diagram drawio](https://user-images.githubusercontent.com/70212207/141459066-d07a5372-fe5a-41e2-acb7-e475492bf51a.png)
+
+
 # CHATBOT GUI DEMO:
 <img width="301" alt="Screenshot 2021-11-10 223414" src="https://user-images.githubusercontent.com/70212207/141174173-f17cd3ae-b551-46f5-a91a-86479d5bdec8.png">
 <img width="299" alt="Screenshot 2021-11-10 225251" src="https://user-images.githubusercontent.com/70212207/141172402-d5870462-1a26-4718-bd10-6935ee327b98.png">
